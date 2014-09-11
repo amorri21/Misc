@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Terminal=true
+Type=Application
+Name=MountDav APSincARM
+Exec=/usr/bin/apsinc
+Icon=chrome-http___amorris.ath.cx_mobil_
